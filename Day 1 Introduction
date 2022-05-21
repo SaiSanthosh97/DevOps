@@ -1,0 +1,19 @@
+Devops
+
+Devops is a technology which provides Continuous support between Development and Operations team.
+Agenda for the course
+1.	GitHub /Bitbucket
+2.	Jenkins /Bamboo – CI/CD
+3.	Maven
+4.	Selenium/Junit – Not covered
+5.	Ansible/Docker/Kubernets for Deployment (CD) – Infrastructure as a Code(IAC)
+6.	Monitoring Tools – Nagios/Dynatrace
+7.	Log analysis – Splunk, ELK(Elastic search, Log stash, Kibana)
+Every website has some public IP. Any we cannot remember that IP so we need to give FQDN (fully qualified name).
+We can buy domain name from godaddy, AWS->Route 53.
+AWS-S3 launched in 2006 and live. So it was only allowing users to store anything except for installing applications. S3 means simple storage
+S3 is similar to OneDrive in Microsoft.
+What is YUM and RPM
+https://www.2daygeek.com/comparison-difference-between-yum-vs-rpm/
+Devops LifeCycle
+Code->Github->Jenkins(CI)->Test->Artifact(nexus Repo)->Docker(CD)->Monitor(Nagios)->Log(ELK)
