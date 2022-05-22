@@ -1,0 +1,22 @@
+Basic Linux commands
+Created file using mkdir
+Used ls -l to view files with permission
+Different ways to create a file using command
+1.Touch – We can create only file and not folder
+2.Cat – We can view information inside the file Ex: cat>>filename.txt [Enter] used to append.
+3.Vim/vi – CRUD operations can be performed
+a.Insert mode
+b.Command mode
+c.Colon mode
+d.http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
+4.Echo – Print statement
+5.Nano –  It is a editor. Use ctrl key + X once done with editing the file.
+All the above operations are performed in GitBash
+File permission -rw-r—r--
+Default file permission for root user is 0644
+Default folder permission for root user is 755
+Default file permission for normal user 664
+Default folder permission for root user 775
+If we see $ symbol it denotes we are normal user and if it is # then it is root user
+Linux Commands: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+https://www.javatpoint.com/linux-commands
